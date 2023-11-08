@@ -1,4 +1,8 @@
 #!/bin/bash
+
+# Author: [Dulanjana Lakmal]
+# Date: [2023/11/08]
+
 set -x
 
 help(){
